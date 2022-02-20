@@ -3,7 +3,7 @@ A RadioSciope is an instrument that takes audio input from an external source, i
 
 1) Record array can hold up to a minute of recorded audio input.
 
-2) Playback array is triggered once the record control is triggered (once to start recording and again to stop), and will loop over the ellapsed time of the recorded input.
+2) Playback array is updated once the record control is triggered (once to start recording and again to stop), and will loop over the ellapsed time of the recorded input.
 
 3) Various effects can be used to manipulate the signal: panning, low pass and high pass filtering, and phasing.
 
