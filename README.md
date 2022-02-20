@@ -10,5 +10,5 @@ A RadioSciope is an instrument that takes audio input from an external source, i
 Hardware components used:
 - Bela board 
 - 2 tiggers (preferably, buttons for recording and playback)
-- 4 continous controllers (potentiometer)
+- 4 continous controllers (potentiometers)
 - 1 volume fader
