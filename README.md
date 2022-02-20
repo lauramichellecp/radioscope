@@ -7,6 +7,8 @@ A RadioSciope is an instrument that takes audio input from an external source, i
 
 3) Various effects can be used to manipulate the signal: panning, low pass and high pass filtering, and phasing.
 
+4) Output connected to the Bela oscilloscope to visualize the signal
+
 Hardware components used:
 - Bela board - https://bela.io/
 - 2 tiggers (preferably, buttons for recording and playback)
