@@ -8,7 +8,7 @@ A RadioSciope is an instrument that takes audio input from an external source, i
 3) Various effects can be used to manipulate the signal: panning, low pass and high pass filtering, and phasing.
 
 Hardware components used:
-- Bela board 
+- Bela board - https://bela.io/
 - 2 tiggers (preferably, buttons for recording and playback)
 - 4 continous controllers (potentiometers)
 - 1 volume fader
